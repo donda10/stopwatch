@@ -1,21 +1,4 @@
-# Stopwatch App 
 
-This is a simple stopwatch I built using **HTML, CSS, and JavaScript**.  
-It was mainly a practice project to understand how timers work in JavaScript.
-
----
-
-## What it does
-- You can **start** the stopwatch.  
-- You can **pause** it whenever you want.  
-- You can **reset** it back to zero.  
-- The time shows up in this format: **MM : SS : MS** (minutes, seconds, milliseconds).
-
----
-
-## code
-
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,5 +90,3 @@ It was mainly a practice project to understand how timers work in JavaScript.
 </body>
 </html>
 
-
-```
